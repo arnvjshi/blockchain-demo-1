@@ -1,7 +1,3 @@
-
-// Original:
-// https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka
-
 const SHA256 = require('crypto-js/sha256');
 
 class Block {
